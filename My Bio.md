@@ -1,5 +1,5 @@
 - 👋 Hi there, this is @ooReynoldsHuoo. It is my first file here in the GitHub community.
-- 👀 I’m interested in Engineering, Software Developing and Data Analyzing.
+- 👀 I’m interested in designing, Programming and analyzing.
 - 🌱 I’m also a tarot diviner, and have a black cat named Kiki.
 - 📫 Got any questions? Feel free to contact me.
 
